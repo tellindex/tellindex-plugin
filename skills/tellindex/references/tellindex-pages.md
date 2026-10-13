@@ -61,4 +61,4 @@ or a TikTok / Reels / YouTube link.
 | Search by notes | `https://tellindex.com/<lang>/notes` | pick accords and notes, get perfumes that smell like that, each with its Tell |
 | Scan | `https://tellindex.com/<lang>/scan` | identify a perfume from a bottle photo, a video or a screenshot |
 | Worlds | `https://tellindex.com/<lang>/worlds` | new releases with Tell seals, the hall of fame, trends, weekly duels, who wears what, a map of what's near |
-| Settings | `settings_url` from `tellindex_account` | market (currency and stores), language, connected apps |
+| Settings | `https://tellindex.com/<lang>/settings` | market (currency and stores), language, connected apps |

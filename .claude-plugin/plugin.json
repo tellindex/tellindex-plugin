@@ -1,7 +1,7 @@
 {
   "name": "tellindex",
   "displayName": "Tell Index",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Perfume answers from Tell Index (tellindex.com): how a perfume smells and comes across to people around you, where to buy it and for how much, and your own perfume wardrobe.",
   "author": {
     "name": "Tell Index",
@@ -17,6 +17,8 @@
     "tell index"
   ],
   "icon": "./assets/logo.png",
+  "documentationUrl": "https://tellindex.com/en/ai",
+  "supportUrl": "https://tellindex.com/en/support",
   "privacyPolicyUrl": "https://tellindex.com/en/privacy",
   "termsOfServiceUrl": "https://tellindex.com/en/terms"
 }
