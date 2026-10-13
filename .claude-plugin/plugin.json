@@ -1,0 +1,22 @@
+{
+  "name": "tellindex",
+  "displayName": "Tell Index",
+  "version": "0.4.0",
+  "description": "Perfume answers from Tell Index (tellindex.com): how a perfume smells and comes across to people around you, where to buy it and for how much, and your own perfume wardrobe.",
+  "author": {
+    "name": "Tell Index",
+    "url": "https://tellindex.com"
+  },
+  "homepage": "https://tellindex.com",
+  "repository": "https://github.com/tellindex/tellindex-plugin",
+  "license": "MIT",
+  "keywords": [
+    "perfume",
+    "fragrance",
+    "wardrobe",
+    "tell index"
+  ],
+  "icon": "./assets/logo.png",
+  "privacyPolicyUrl": "https://tellindex.com/en/privacy",
+  "termsOfServiceUrl": "https://tellindex.com/en/terms"
+}
